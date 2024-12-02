@@ -1,3 +1,3 @@
-# frontend
+# Firebase
 
-A new Flutter project.
+Testing various functionalites provided by firebase
